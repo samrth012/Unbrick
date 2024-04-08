@@ -3,9 +3,13 @@
 Requirements - 
 
 USB drivers - https://spflashtool.com/download/MediaTek_USB_VCOM_drivers.zip
+
 Lib USB driver - https://bypassfrpfiles.com/2021/02/download-libusb-win32-driver/
+
 Sultneg tool - https://sfile.mobi/7pcPraEckEW
+
 Mi flash pro - https://miflashpro.com/
+
 Latest fastboot stock rom - https://xiaomifirmwareupdater.com/miui/pissarro/
 
 

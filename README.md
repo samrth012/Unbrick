@@ -3,9 +3,13 @@
 Requirements - 
 
 USB drivers - [Here](https://github.com/samrth012/Unbrick/releases/download/Tools/MediaTek_USB_VCOM_drivers.zip)
+
 Lib USB driver - [Here](https://github.com/samrth012/Unbrick/releases/download/Tools/libusb-win32-devel-filter-1.2.6.0_bypassfrpfiles.com.zip)
+
 Sultneg tool - [Here](https://github.com/samrth012/Unbrick/releases/download/Tools/MTK.GSM.Sulteng.V1.3.8.rar)
+
 Mi flash pro - [Here](https://github.com/samrth012/Unbrick/releases/download/Tools/MiFlash_Pro_v7.3.608.18_EN_Setup.zip)
+
 Latest fastboot stock rom - [Here](https://xiaomifirmwareupdater.com/miui/pissarro/)
 
 

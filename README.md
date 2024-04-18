@@ -6,6 +6,8 @@ Python - [Here](https://www.python.org/downloads/)
 
 USB drivers - [Here](https://github.com/samrth012/Unbrick/releases/download/Tools/MediaTek_USB_VCOM_drivers.zip)
 
+To install drivers - [Go here](https://www.getdroidtips.com/install-mediatek-mt65xx-usb-vcom-drivers/)
+
 Lib USB driver - [Here](https://github.com/samrth012/Unbrick/releases/download/Tools/libusb-win32-devel-filter-1.2.6.0_bypassfrpfiles.com.zip)
 
 Sultneg tool - [Here](https://github.com/samrth012/Unbrick/releases/download/Tools/MTK.GSM.Sulteng.V1.3.8.rar)

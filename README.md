@@ -2,6 +2,8 @@
 
 Requirements - 
 
+Python - [Here](https://www.python.org/downloads/)
+
 USB drivers - [Here](https://github.com/samrth012/Unbrick/releases/download/Tools/MediaTek_USB_VCOM_drivers.zip)
 
 Lib USB driver - [Here](https://github.com/samrth012/Unbrick/releases/download/Tools/libusb-win32-devel-filter-1.2.6.0_bypassfrpfiles.com.zip)

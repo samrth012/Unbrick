@@ -6,7 +6,7 @@ Python - [Here](https://www.python.org/downloads/)
 
 USB drivers - [Here](https://github.com/samrth012/Unbrick/releases/download/Tools/MediaTek_USB_VCOM_drivers.zip)
 
-To install drivers - [Go here](https://www.getdroidtips.com/install-mediatek-mt65xx-usb-vcom-drivers/)
+To install drivers - Extract drivers, open every folder right click the *.inf file and press install.
 
 Lib USB driver - [Here](https://github.com/samrth012/Unbrick/releases/download/Tools/libusb-win32-devel-filter-1.2.6.0_bypassfrpfiles.com.zip)
 

@@ -22,7 +22,7 @@ Process -
 2) Extract and open sultneg tool
 3) Go to xiaomi page
 4) Choose auto select model
-5) Press disable spa auth and select execute 
+5) Press disable auth sla and select execute 
 6) Press and hold volume down button for sometime 
 7) Then press and hold volume up and down together while plugging in the cable after the it says auth bypass successfull 
 8) Open mi flash pro, no need to login 
